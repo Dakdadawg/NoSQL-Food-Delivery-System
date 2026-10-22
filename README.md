@@ -89,7 +89,7 @@ food_delivery_da3/
 
 ### 2. Repository Setup
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/fooddash-dbms.git
+git clone https://github.com/Dakdadawg/NoSQL-Food-Delivery-System.git
 cd fooddash-dbms
 ```
 
