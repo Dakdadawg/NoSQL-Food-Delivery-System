@@ -38,6 +38,14 @@ The platform addresses high-concurrency read/write operations by migrating tradi
 * **Distribution Reports:** Evaluates order volumes and gross merchandise value (GMV) per restaurant entity using multi-stage lookups.
 * **End-to-End System Audit:** Performs cross-collection joins between orders, customers, and restaurants to provide a single-pane-of-glass administrative audit log.
 
+### 5. Application Screenshots
+<img width="901" height="411" alt="image" src="https://github.com/user-attachments/assets/12aebc20-a502-411a-a96b-fa2b2630b579" />
+<img width="901" height="363" alt="image" src="https://github.com/user-attachments/assets/50d9bd86-6528-4c18-a61d-51e82a2e18c7" />
+<img width="940" height="500" alt="image" src="https://github.com/user-attachments/assets/a9fade81-863a-4acf-803d-d88113153dcb" />
+<img width="871" height="444" alt="image" src="https://github.com/user-attachments/assets/e5f7b29e-ac99-4cde-b54c-ec42b10ed31f" />
+<img width="873" height="424" alt="image" src="https://github.com/user-attachments/assets/f1e13531-26a1-4392-a778-69d525629b89" />
+<img width="956" height="406" alt="image" src="https://github.com/user-attachments/assets/246b5c56-399a-4e2c-aebf-4fd7dd3476d2" />
+
 ---
 
 ## Technology Stack
@@ -90,18 +98,13 @@ food_delivery_da3/
 ### 2. Repository Setup
 ```bash
 git clone https://github.com/Dakdadawg/NoSQL-Food-Delivery-System.git
-cd fooddash-dbms
+cd NoSQL-Food-Delivery-System
 ```
 
 ### 3. Environment Configuration
 ```bash
-# Set up virtual environment
 python -m venv venv
-
-# Activate environment (Windows PowerShell)
 .\venv\Scripts\Activate.ps1
-
-# Install project dependencies
 pip install -r requirements.txt
 ```
 
